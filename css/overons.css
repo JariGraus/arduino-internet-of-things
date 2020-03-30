@@ -49,7 +49,7 @@
   
   /* Create two unequal columns that sits next to each other */
   /* Sidebar/left column */
-  .side {
+  .leftSide {
     flex: 30%;
     background-color: #00979D;
     padding: 20px;
