@@ -54,6 +54,16 @@
     background-color: #00979D;
     padding: 20px;
   }
+  .middle {
+    flex: 30%;
+    background-color: #00979D;
+    padding: 20px;
+  }
+  .rightSide {
+    flex: 30%;
+    background-color: #00979D;
+    padding: 20px;
+  }
   
   /* Main column */
   .main {
@@ -63,7 +73,7 @@
   }
   
   /* Fake image, just for this example */
-  .fakeimg {
+  .photoOfUs {
     background-color: #ffffff;
     width: 100%;
     padding: 20px;
